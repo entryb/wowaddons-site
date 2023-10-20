@@ -1,2 +1,2 @@
 # wowaddons-site
-This site is hosted with Nginx and GNU/Linux open source free software.
+This site is hosted with nginx and GNU/Linux open source free software.
