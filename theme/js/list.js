@@ -1,4 +1,4 @@
-/*!
+  /*!
  *
  * This file is part of the nginx-fancyindex-flat-theme, licensed under the GNU
  * General Public License. See the LICENSE file for details.
